@@ -411,6 +411,8 @@ Audio('voice_recording_jgacera.m4a')
 
 
 
+**Link to audio clip <a href="https://github.com/jeddahlyngacera/opm-text-gen-lstm/blob/master/voice_recording_jgacera.m4a">here</a>** 
+
 **Final lyrics: (numbers correspond to their inspiration above)**
 
 <pre>
